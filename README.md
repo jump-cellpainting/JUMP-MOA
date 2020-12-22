@@ -1,6 +1,7 @@
 # JUMP-MOA
 `JUMP-MOA` is list of compounds with diverse MOAs that fit on a single 384-well plate, with 4 replicates per compound. 
 There are 90 compounds from 47 distinct MOA classes. The recommended concentration for these compounds is `3 uM`. 
+This resource was created through the [JUMP-Cell Painting Consortium](https://jump-cellpainting.broadinstitute.org/).
 
 ## Files
 
