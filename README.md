@@ -5,7 +5,7 @@ This resource was created through the [JUMP-Cell Painting Consortium](https://ju
 
 ## Files
 
-`JUMP-MOA_compound_metadata.tsv`
+[`JUMP-MOA_compound_metadata.tsv`](JUMP-MOA_compound_metadata.tsv)
 
 | Column | Description |
 | :----- | :---------- |
@@ -16,7 +16,7 @@ This resource was created through the [JUMP-Cell Painting Consortium](https://ju
 | moa | Mechanism-of-action annotation, derived from [Broad Drug Repurposing Hub](https://clue.io/repurposing) and curated [here](https://github.com/broadinstitute/lincs-cell-painting/blob/master/metadata/moa/repurposing_info_external_moa_map_resolved.tsv) |
 | smiles | Simplified molecular-input line-entry system ([SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system)) string |
 
-`JUMP-MOA_compound_platemap.tsv`
+[`JUMP-MOA_compound_platemap.tsv`](JUMP-MOA_compound_metadata.tsv)
 
 | Column | Description |
 | :----- | :---------- |
