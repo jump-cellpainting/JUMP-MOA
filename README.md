@@ -24,6 +24,20 @@ This resource was created through the [JUMP-Cell Painting Consortium](https://ju
 | broad_sample | Compound ID in Broad Institute's compound management database |
 | solvent | Solvent (always DMSO) |
 
+[`JUMP-MOA_compound_platemap_with_metadata.csv`](JUMP-MOA_compound_platemap_with_metadata.csv)
+
+A csv with the combined information from the tsv's.
+
+| Column | Description |
+| :----- | :---------- |
+| well_position | Well position |
+| broad_sample | Compound ID in Broad Institute's compound management database |
+| solvent | Solvent (always DMSO) |
+| InChIKey | [International Chemical Identifier](https://en.wikipedia.org/wiki/International_Chemical_Identifier) |
+| pert_iname | Compound name |
+| pubchem_cid	 | PubChem ID e.g. [`72716071`](https://pubchem.ncbi.nlm.nih.gov/compound/72716071) |
+| moa | Mechanism-of-action annotation, derived from [Broad Drug Repurposing Hub](https://clue.io/repurposing) and curated [here](https://github.com/broadinstitute/lincs-cell-painting/blob/master/metadata/moa/repurposing_info_external_moa_map_resolved.tsv) |
+| smiles | Simplified molecular-input line-entry system ([SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system)) string |
 
 ## Plate layout
 
