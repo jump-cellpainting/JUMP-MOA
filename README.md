@@ -43,3 +43,11 @@ A csv with the combined information from the tsv's.
 
 ![Plate layout](layout.png)
 
+
+## Broad internal notes
+
+- Originally called CPJUMP-Stain1
+- 90 compounds x 4 replicates
+- Compound Request Number: CR-11516 - placed by Shantanu Singh - $2,950
+- 3 milliMolar 10 uL total volume (5 uL dead volume)
+
