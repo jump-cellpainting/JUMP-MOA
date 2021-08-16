@@ -3,6 +3,8 @@
 There are 90 compounds from 47 distinct MOA classes. The recommended concentration for these compounds is `3 uM`. 
 This resource was created through the [JUMP-Cell Painting Consortium](https://jump-cellpainting.broadinstitute.org/).
 
+The MOA annotations were obtained from https://clue.io/repurposing.
+
 ## Files
 
 [`JUMP-MOA_compound_metadata.tsv`](JUMP-MOA_compound_metadata.tsv)
