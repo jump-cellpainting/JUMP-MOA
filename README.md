@@ -5,6 +5,21 @@ This resource was created through the [JUMP-Cell Painting Consortium](https://ju
 
 The MOA annotations were obtained from https://clue.io/repurposing.
 
+Eight of these compounds have been de-identified; they have `broad_sample` values of `Compound1`, `Compound2`, ..., `Compound8`.
+If you are recreating this plate, we recommend replacing them with their counterparts i.e. the other compound in the set with the same MOA:
+
+|moa                         |member_1          |member_2  |
+|:---------------------------|:-----------------|:---------|
+|HMGCR inhibitor             |delta-Tocotrienol |Compound1 |
+|kinesin inhibitor           |ispinesib         |Compound2 |
+|BCL inhibitor               |ABT-737           |Compound3 |
+|PARP inhibitor              |veliparib         |Compound4 |
+|IGF-1 inhibitor             |NVP-AEW541        |Compound5 |
+|tricyclic antidepressant    |dosulepin         |Compound6 |
+|FGFR inhibitor              |BLU9931           |Compound7 |
+|phosphodiesterase inhibitor |quazinone         |Compound8 |
+
+
 ## Files
 
 [`JUMP-MOA_compound_metadata.tsv`](JUMP-MOA_compound_metadata.tsv)
