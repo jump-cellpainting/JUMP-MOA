@@ -8,7 +8,7 @@ The MOA annotations were obtained from https://clue.io/repurposing.
 Eight of these compounds have been de-identified; they have `broad_sample` values of `Compound1`, `Compound2`, ..., `Compound8`.
 If you are recreating this plate, we recommend replacing them with their counterparts i.e. the other compound in the set with the same MOA:
 
-|moa                         |member_1          |member_2  |
+|moa                         |replace_with      |original  |
 |:---------------------------|:-----------------|:---------|
 |HMGCR inhibitor             |delta-Tocotrienol |Compound1 |
 |kinesin inhibitor           |ispinesib         |Compound2 |
