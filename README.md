@@ -48,7 +48,7 @@ A csv with the combined information from the tsv's.
 ## De-identified compounds
 
 Eight of these compounds have been de-identified; they have `broad_sample` values of `Compound1`, `Compound2`, ..., `Compound8`.
-If you are recreating this plate, we recommend replacing them with their counterparts i.e. the other compound in the set with the same MOA:
+If you are recreating this plate, we recommend replacing these de-identified compounds with their (non-de-identified) counterparts i.e. the other compound in the set with the same MOA:
 
 |moa                         |replace_with      |original  |
 |:---------------------------|:-----------------|:---------|
