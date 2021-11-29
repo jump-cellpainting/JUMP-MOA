@@ -5,6 +5,8 @@ This resource was created through the [JUMP-Cell Painting Consortium](https://ju
 
 The MOA annotations were obtained from https://clue.io/repurposing.
 
+The company Specs has assembled the compounds for purchase; for info contact tamara.baptist@specs.net
+
 ## Files
 
 [`JUMP-MOA_compound_metadata.tsv`](JUMP-MOA_compound_metadata.tsv)
