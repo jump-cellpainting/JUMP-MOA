@@ -7,7 +7,7 @@ The MOA annotations were obtained from https://clue.io/repurposing.
 
 The company Specs has assembled the compounds for purchase; for info contact tamara.baptist@specs.net
 
-How does JUMP-MOA differ from JUMP-Target-Compound?
+How does JUMP-MOA differ from [JUMP-Target-Compound](https://github.com/jump-cellpainting/JUMP-Target )?
 JUMP-MOA and JUMP-Target-Compound are similar in goals: to allow testing whether a compound can "retrieve" (match) replicates of itself, and also whether it can retrieve compounds with the same annotated mechanism (though the  mechanism annotations are imperfect).
 * JUMP-Target is bigger in terms of the number of compounds with typically one replicate of each compound on the plate. Bigger is better for statistical confidence, but worse if someone wants to not “waste” so much effort/expense on controls; one would want to run 4 replicate plates for a retrieval test and keep in mind that plate position effects may confound this analysis (a given compound will always be in the same well position, which can inflate them matching each other, for technical variation reasons).
 * JUMP-MOA has 4 replicates of each compound internal to the plate and thus in different well positions, so it allows testing replicate retrieval that is unconfounded by plate position effects (where well positions especially at the edge of the plate look alike for technical variation reasons and not because of the effect of the compound). But it has only ~1/4 the number of compounds and mechanism classes.
